@@ -1,0 +1,18 @@
+﻿# Secret / local environment files
+llave_yolo.pem
+*.pem
+.env
+.env.*
+
+# local editor settings
+.claude/
+**/.claude/
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# OS files
+.DS_Store
